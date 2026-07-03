@@ -7,4 +7,4 @@ Author - Ritik Bora (Apna college).
  Here I will daily do some chnage and comit them daily.
 <br> 
 This is DAY 1, Today is 2nd July 2026. 1st commit, 2nd commit, 3rd commit, 4th commit, 5th commit, 6th commit, 7th commit of the day.
-<br> This is DAY 2, Today is 3rd July 20206. 1st commit,
+<br> This is DAY 2, Today is 3rd July 20206. 1st commit,2nd commit, 
